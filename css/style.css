@@ -8925,8 +8925,8 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    background: var(--dark-pink);
-    opacity: .7; }
+    background: var(--pastel-pink);
+    opacity: .0; }
   .ftco-hireme h2 {
     color: #fff;
     font-size: 40px;
