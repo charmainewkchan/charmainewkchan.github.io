@@ -26,8 +26,8 @@
   --danger: #dc3545;
   --light: #f8f9fa;
   --dark: #343a40;
-  --pastel-pink: #ff8d8d;
-  --pastel-yellow: #ffd56b;
+  --pastel-pink: #ffae9f;
+  --pastel-yellow: #ffe195;
   --brown: #4b331a ;
   --dark-pink: #d36767;
   --breakpoint-xs: 0;
@@ -8405,9 +8405,9 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    opacity: .1;
+    opacity: .3;
     width: 50%;
-    background: #ff89b0; }
+    background: var(--pastel-pink); }
   .hero-wrap .text {
     width: 100%; }
 
